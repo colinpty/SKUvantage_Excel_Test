@@ -36,9 +36,4 @@ COPY output FROM '/Users/colinrocha/output_correct.csv' WITH CSV HEADER;
 
 COPY workers FROM '/Users/colinrocha/workers_correct.csv' WITH CSV HEADER; 
 ```
-7. Who is the most productive - provide a report
-```
-COPY output FROM '/Users/colinrocha/output_correct.csv' WITH CSV HEADER; 
 
-COPY workers FROM '/Users/colinrocha/workers_correct.csv' WITH CSV HEADER; 
-```
