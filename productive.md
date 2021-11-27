@@ -31,8 +31,12 @@ GROUP BY
 	CONTRACTOR;
 ```
 4. RESULTS
+
+
 | contractor      | productivity |
-| ----------- | ----------- |
+| :---        |    :----:   |  
 | Rob      | 0.00539       |
 | Pete   | 0.03876        |
 | Joy   | 0.01115        |
+
+
